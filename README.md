@@ -4,6 +4,7 @@ I am a highly disciplined Computer Engineering student with a strong focus on we
 
 
 🚀 About Me
+
 💻 I served as an SDE Intern at Reliance Company where I applied best practices in software development, database management, and virtualization.
 
 🌐 I was a Web Developer Intern at Tutlabs, where I collaborated with a team to design, develop, and deploy responsive web applications. I also assisted in developing front-end features using HTML, CSS, JavaScript, and frameworks like React.js.
@@ -21,7 +22,7 @@ I am a highly disciplined Computer Engineering student with a strong focus on we
 
 💼 Tech Stack
 Here is the updated list of skills with icons, formatted for you:
-[![My Skills](https://skillicons.dev/icons?i=css,figma,github,html,java,js,mongodb,react,sql,tailwind,express,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,figma,github,html,java,javascript,mongodb,react,sql,tailwind,express,git)](https://skillicons.dev)
 
 📬 Get in Touch
 🌐 Portfolio: https://manishkhandagale.github.io/portfolio/ 
