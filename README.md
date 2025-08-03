@@ -22,7 +22,7 @@ I am a highly disciplined Computer Engineering student with a strong focus on we
 
 💼 Tech Stack
 Here is the updated list of skills with icons, formatted for you:
-[![My Skills](https://skillicons.dev/icons?i=css,figma,github,html,java,javascript,mongodb,react,sql,tailwind,express,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,figma,github,html,java,javascript,mongodb,react,MYsql,postgresql,orcale,tailwind,express,git)](https://skillicons.dev)
 
 📬 Get in Touch
 🌐 Portfolio: https://manishkhandagale.github.io/portfolio/ 
