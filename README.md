@@ -21,6 +21,7 @@ I am a highly disciplined Computer Engineering student with a strong focus on we
 🚗 Rent-a-Car – A web application built using React.js, Tailwind CSS, and GraphQL. The project includes seamless user authentication and management with Clerk, along with a responsive UI and efficient data handling.
 
 💼 Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=css,figma,github,html,java,js,mongodb,react,mysql,postgresql,tailwind,express,git)](https://skillicons.dev)
 
 📬 Get in Touch
