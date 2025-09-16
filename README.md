@@ -1,5 +1,5 @@
 Hi, I'm Manish Sadashiv Khandagale! 👋
-I am a highly disciplined Computer Engineering student with a strong focus on web development and hands-on experience in building dynamic, user-friendly web applications. Through my internships, I have developed a solid foundation in both frontend and backend technologies, including HTML, CSS, JavaScript, React, and databases. I'm a quick learner with a strong ability to adapt to new tools and technologies, and I'm eager to contribute my technical expertise, problem-solving abilities, and creativity to a forward-thinking development team.
+I am a  Computer Engineering graduate with a strong focus on web development and hands-on experience in building dynamic, user-friendly web applications. Through my internships, I have developed a solid foundation in both frontend and backend technologies, including HTML, CSS, JavaScript, React, and databases. I'm a quick learner with a strong ability to adapt to new tools and technologies, and I'm eager to contribute my technical expertise, problem-solving abilities, and creativity to a forward-thinking development team.
 
 
 
